@@ -1,0 +1,6 @@
+[hooks]
+	url = http://code.osehra.org/VistA.git
+[gerrit]
+	project = VIMM
+	site = http://review.code.osehra.org
+	pushurl = $username@review.code.osehra.org:VIMM
